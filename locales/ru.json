@@ -1,20 +1,18 @@
 {
-	"helloLng_title": "🇷🇺 Welcome on Discord server for **PJATK** students !\n",
-	"helloLng_desc": "🇷🇺 Before i can let you in, you must **answer** some **questions**\nHere, the first one, which **language** do you prefer to continue?\n",
-	"helloFooter_react": "Use reactions to respond.\n",
-	"helloFooter_chat": "Use the chat to respond.\n",
-	"helloFooter_both": "Use reactions or the chat to respond.\n",
-	"helloFooter_mail": "Waiting for the verification link to be open, to continue.",
-	"helloFooter_over": "This channel and this message will be deleted in 30 seconds.",
+
+	"helloLng_title": "🇬🇧 Добро пожаловать на Дискорд-сервер для студентов **PJATK** !\n",
+	"helloLng_desc": "🇬🇧 Прежде чем я впущу вас, **ответьте** на несколько **вопросов**\nПервый - на каком **языке** вы предпочли бы продолжить?\n",
+	"helloFooter_react": "Используйте реакцию, чтобы ответить.\n",
+	"helloFooter_chat": "Используйте чат, чтобы ответить.\n",
+	"helloFooter_both": "Используйте реакцию или чат, чтобы ответить.\n",
+	"helloFooter_mail": "Ожидаю открытия ссылки для подтверждения, чтобы продолжить.",
 	"flag": "🇷🇺",
-	"helloId_title": "I need to verify your **student id** !\n*(exemple: s12345)*",
-	"helloId_desc": "This discord is **only** for students of **PJATK** !\n\nTo help protect us from abuse, write your **student id** in the chat, we will proceed the **verification**.",
-	"helloMail_title": "Please **click** on the **link** provided in the verification mail to prove your identity.",
-	"helloMail_desc": "We sent you an email at **%s**, it's the email the academy provided, you can **access it** from here:\n**https://gakko.pjwstk.edu.pl/ -> email**\n\n**Check your spam folder** to make sure it didn't end up there.\n\nYou can also add the email address **pjatk@lma.community** to your address book.\n\nIf you're still not receiving the email, contact us at **contact@lma.community** to troubleshoot further.",
-	"mail_verifopened": "Your email is already verified !\nGo back to the Discord to continue !",
-	"mail_veriffirst": "Your email has been successfully verified !\nGo back to the discord to continue !",
-	"helloName_title": "Please write down your **fullname** *(John Smith)* down below.",
-	"helloName_desc": "Don't worry our servers and databases are in conformity with the GDPR rules, your data is safe.",
-	"helloOver_title": "Proszę zapisać swoje **pełne nazwisko** *(John Smith)* poniżej, to ułatwi innym studentom rozpoznanie ciebie.",
-	"helloOver_desc": "Nie martw się, nasze serwery i bazy danych są zgodne z zasadami GDPR, Twoje dane są bezpieczne."
+	"helloId_title": "Мне нужно подтвердить ваш **студенческий ID** !\n*(Пример: s12345)*",
+	"helloId_desc": "Этот дискорд-сервер **только** для студентов **PJATK** !\n\nЧтобы помочь защитить нас от нападений, напишите свой **студенческий ID** в чат - мы продолжим проверку*.",
+	"helloMail_title": "Пожалуйста, **кликните** по **ссылке** в вашем верификационном электронном письме, чтобы подтвердить свою личность.",
+	"helloMail_desc": "Мы отправили вам e-mail на **%s** -  это письмо,которое предоставила академия, вы можете **получить доступ к нему** здесь:\n**https://gakko.pjwstk.edu.pl/ -> email**\n\n**Проверьте папку со спамом**: оно могло туда попасть.\n\nТакже вы можете добавить электронный адрес **pjatk@lma.community** в вашу адресную книжку.\n\nЕсли вы до сих пор не получили письма, свяжитесь с нами  **contact@lma.community**, чтобы устранить неполадки.",
+	"mail_verifopened": "Ваш электронный адрес подтвержден !\nВернитесь в Дискорд, чтобы продолжить !",
+	"mail_veriffirst": "Ваш электронный адрес успешно подтвержден !\nВернитесь в Дискорд, чтобы продолжить !"
+	"helloName_title": "Пожалуйста напишите свое **полное имя** *(Иван Петров)* ниже.",
+	"helloName_desc": "Не переживайте:наши сервера и базы данных защищены в соответсвии с правилами GDPR, ваши данные в безопасности."
 }
