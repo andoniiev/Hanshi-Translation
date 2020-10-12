@@ -1,6 +1,16 @@
 {
-	"hellolng_title": "🇵🇱 Witamy na Discord dla studentów z **PJATK**\n",
-	"hellolng_desc": "🇵🇱 Zanim wpuszczę cię, musisz **odpowiedzieć** na kilka **pytań**, pierwsze, w jakim **języku** wolisz kontynuować?\n",
-	"hello_footer": "Użyj reakcji lub czatu, aby odpowiedzieć",
-	"flag": "🇵🇱"
+	"helloLng_title": "🇵🇱 Witamy na Discord dla studentów z **PJATK** !\n",
+	"helloLng_desc": "🇵🇱 Zanim wpuszczę cię, musisz **odpowiedzieć** na kilka **pytań**, pierwsze, w jakim **języku** wolisz kontynuować?\n",
+	"helloFooter_react": "Użyj reakcji, aby odpowiedzieć.\n",
+	"helloFooter_chat": "Użyj czatu, aby odpowiedzieć.\n",
+	"helloFooter_both": "Użyj reakcji lub czatu, aby odpowiedzieć.\n",
+	"helloFooter_mail": "Czekanie na otwarcie linku weryfikacyjnego, aby kontynuować.",
+	"flag": "🇵🇱",
+	"helloId_title": "Muszę zweryfikować twoj **identyfikator studenta** !\n*(na przykład: s12345)*",
+	"helloId_desc": "Ten discord jest **tylko** dla uczniów **PJATK** !\n\nAby uchronić nas przed niewłaściwym wykorzystywaniem, wpisz na czacie twój **identyfikator studenta**, a my przeprowadzimy **weryfikację**.",
+	"helloMail_title": "Proszę **kliknąć** na **link** podany w mailu weryfikacyjnym, aby udowodnić swoją tożsamość.",
+	"helloMail_desc": "Wysłaliśmy ci maila na **%s**, jest to mail,\nktóry dał ci akademia, możesz się do niego **dostać** stąd:\n**https://gakko.pjwstk.edu.pl/ -> poczta**\n\n**Sprawdzaj swój folder spam**, żeby się upewnić, że tam nie trafił.\n\nMożesz też dodać adres e-mail **pjatk@lma.community** do swojej książki adresowej.\n\nŻeby dalej rozwiązywać twojego problemu, skontaktuj się z nami **contact@lma.community**.",
+	"mail_verifopened": "Twój e-mail jest już zweryfikowany!\nWróć do Discorda, aby kontynuować!",
+	"mail_veriffirst": "Twój e-mail został pomyślnie zweryfikowany!\nWróć do Discorda aby kontynuować!",
+	"helloName_title": "helloName_title"
 }
