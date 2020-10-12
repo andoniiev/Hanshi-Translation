@@ -1,20 +1,19 @@
 {
-	"helloLng_title": "🇺🇦 Welcome on Discord server for **PJATK** students !\n",
-	"helloLng_desc": "🇺🇦 Before i can let you in, you must **answer** some **questions**\nHere, the first one, which **language** do you prefer to continue?\n",
-	"helloFooter_react": "Use reactions to respond.\n",
-	"helloFooter_chat": "Use the chat to respond.\n",
-	"helloFooter_both": "Use reactions or the chat to respond.\n",
-	"helloFooter_mail": "Waiting for the verification link to be open, to continue.",
-	"helloFooter_over": "This channel and this message will be deleted in 30 seconds.",
+	"helloLng_title": "🇬🇧 Ласкаво просимо на Дискорд-сервер для студентів **PJATK** !\n",
+	"helloLng_desc": "🇬🇧 Перш ніж впустити вас, **відповістіть** на деякі **запитання**\nПерше - на якій **мові** ви бажали б продовжити?\n",
+	"helloFooter_react": "Використайте емоцію, аби відповісти.\n",
+	"helloFooter_chat": "Використайте чат, аби відповісти.\n",
+	"helloFooter_both": "Використайте емоцію або чат,аби відповісти.\n",
+	"helloFooter_mail": "Очікую відкриття верифікаційного посилання для продовження.",
 	"flag": "🇺🇦",
-	"helloId_title": "I need to verify your **student id** !\n*(exemple: s12345)*",
-	"helloId_desc": "This discord is **only** for students of **PJATK** !\n\nTo help protect us from abuse, write your **student id** in the chat, we will proceed the **verification**.",
-	"helloMail_title": "Please **click** on the **link** provided in the verification mail to prove your identity.",
-	"helloMail_desc": "We sent you an email at **%s**, it's the email the academy provided, you can **access it** from here:\n**https://gakko.pjwstk.edu.pl/ -> email**\n\n**Check your spam folder** to make sure it didn't end up there.\n\nYou can also add the email address **pjatk@lma.community** to your address book.\n\nIf you're still not receiving the email, contact us at **contact@lma.community** to troubleshoot further.",
-	"mail_verifopened": "Your email is already verified !\nGo back to the Discord to continue !",
-	"mail_veriffirst": "Your email has been successfully verified !\nGo back to the discord to continue !",
-	"helloName_title": "Please write down your **fullname** *(John Smith)* down below.",
-	"helloName_desc": "Don't worry our servers and databases are in conformity with the GDPR rules, your data is safe.",
-	"helloOver_title": "Proszę zapisać swoje **pełne nazwisko** *(John Smith)* poniżej, to ułatwi innym studentom rozpoznanie ciebie.",
-	"helloOver_desc": "Nie martw się, nasze serwery i bazy danych są zgodne z zasadami GDPR, Twoje dane są bezpieczne."
+	"helloId_title": "Мені треба підтвердити ваш **студентський ID**!\n*(Приклад: s12345)*",
+	"helloId_desc": "Цей дискорд-сервер **тільки** для студентів **PJATK** !\n\nЗ метою захисту нас від зловживання, напишіть свій **студентський ID** до чату, ми продовжимо **перевірку**.",
+	"helloMail_title": "Будь ласка **клікніть** на **посилання**, відправлене у верифікаційному листі, щоб підтвердити свою особистість.",
+	"helloMail_desc": "Ми відправили вам електронний лист на **%s**, це лист,який надала академія, ви можете **отримати доступ до нього** звідси:\n**https://gakko.pjwstk.edu.pl/ -> email**\n\n**Перевірте секцію "Спам"**, аби переконатися, що лист не потратив туди.\n\nТакож ви можете додати електронну адресу**pjatk@lma.community** до вашої адресної книжки.\n\nУ випадку, якщо ви досі не отримали листа, напишіть нам **contact@lma.community** для усунення проблем.",
+	"mail_verifopened": "Вашу електронну адресу підтверджено !\nПовертайтеся до Дискорду !",
+	"mail_veriffirst": "Вашу електронну адресу успішно підтверджено !\nПовертайтеся до Дискорду !"
+	"helloName_title": "Будь ласка, напишіть своє**повне ім'я** *(Петро Іваненко)* нижче.",
+	"helloName_desc": "Не перейматеся:наші сервери і бази данних захищені відповідно до правил  GDPR, ваші дані у безпеці."
+	"helloOver_title": "Будь ласка, напишіть своє**повне ім'я** *(Петро Іваненко)* нижче, аби інші студенти могли розпізнати вас.",  
+	"helloOver_desc": "Не перейматеся:наші сервери і бази данних захищені відповідно до правил  GDPR, ваші дані у безпеці."
 }
