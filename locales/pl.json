@@ -5,6 +5,7 @@
 	"helloFooter_chat": "Użyj czatu, aby odpowiedzieć.\n",
 	"helloFooter_both": "Użyj reakcji lub czatu, aby odpowiedzieć.\n",
 	"helloFooter_mail": "Czekanie na otwarcie linku weryfikacyjnego, aby kontynuować.",
+	"helloFooter_over": "Ten kanał i ta wiadomość zostanie usunięta w ciągu 30 sekund.",
 	"flag": "🇵🇱",
 	"helloId_title": "Muszę zweryfikować twoj **identyfikator studenta** !\n*(na przykład: s12345)*",
 	"helloId_desc": "Ten discord jest **tylko** dla uczniów **PJATK** !\n\nAby uchronić nas przed niewłaściwym wykorzystywaniem, wpisz na czacie twój **identyfikator studenta**, a my przeprowadzimy **weryfikację**.",
@@ -12,5 +13,8 @@
 	"helloMail_desc": "Wysłaliśmy ci maila na **%s**, jest to mail,\nktóry dał ci akademia, możesz się do niego **dostać** stąd:\n**https://gakko.pjwstk.edu.pl/ -> poczta**\n\n**Sprawdzaj swój folder spam**, żeby się upewnić, że tam nie trafił.\n\nMożesz też dodać adres e-mail **pjatk@lma.community** do swojej książki adresowej.\n\nŻeby dalej rozwiązywać twojego problemu, skontaktuj się z nami **contact@lma.community**.",
 	"mail_verifopened": "Twój e-mail jest już zweryfikowany!\nWróć do Discorda, aby kontynuować!",
 	"mail_veriffirst": "Twój e-mail został pomyślnie zweryfikowany!\nWróć do Discorda aby kontynuować!",
-	"helloName_title": "helloName_title"
+	"helloName_title": "Proszę zapisać swoje **pełne nazwisko** *(John Smith)* poniżej, to ułatwi innym studentom komunikację z Tobą.",
+	"helloName_desc": "Nie martw się, nasze serwery i bazy danych są zgodne z zasadami GDPR, Twoje dane są bezpieczne.",
+	"helloOver_title": "Witaj ! Nie zapomnij przestrzegać zasad!",
+	"helloOver_desc": "Ten serwer jest jeszcze w trakcie realizacji, ostateczna wersja zostanie wkrótce wprowadzona"
 }
